@@ -1,4 +1,4 @@
-#Convert the app sizes to a number
+1.Convert the app sizes to a number
 
 #Convert the number of installs to a number
 
